@@ -10,7 +10,7 @@ namespace BlaBla
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("After midnight the clowns aren't funny!");
         }
     }
 }
